@@ -1,16 +1,22 @@
-# React + Vite
+# Nusantara Market Present;
+=> Product Section
+<img width="1877" height="1028" alt="image" src="https://github.com/user-attachments/assets/fea273f6-2815-4675-a9f4-6acf91e0ac2e" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=> Footer With Admin Easter-Egg Panel
+<img width="1878" height="377" alt="image" src="https://github.com/user-attachments/assets/911c44c4-03e4-4575-9dc2-75ee90dfd03d" />
 
-Currently, two official plugins are available:
+=> Navbar With Cart / Summary / Search bar / FavoritePage/Wishlist / LoginPage / CheckoutPage
+<img width="1873" height="136" alt="image" src="https://github.com/user-attachments/assets/aa5b1886-88cb-4791-846b-5f26a101a602" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**=====**
+=> Login Page / Sign-In Page
+<img width="1875" height="838" alt="Screenshot 2026-03-02 153928" src="https://github.com/user-attachments/assets/1391732c-e787-4128-a319-369bfcf30d76" />
 
-## React Compiler
+=> Cart Page
+<img width="639" height="1028" alt="Screenshot 2026-03-02 154054" src="https://github.com/user-attachments/assets/dc74dc79-c2c0-4d43-875d-f391f500afbd" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+=> CheckOut Page
+<img width="1873" height="969" alt="Screenshot 2026-03-02 154138" src="https://github.com/user-attachments/assets/bb8f0b3c-9de4-4e73-875e-8b3de717c87b" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=> Favorite Page / Wishlist
+<img width="1880" height="719" alt="image" src="https://github.com/user-attachments/assets/d82bd9a2-73d3-462b-a843-103c146196da" />
